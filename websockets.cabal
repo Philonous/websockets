@@ -62,6 +62,7 @@ Library
     Network.WebSockets.Connection
     Network.WebSockets.Extensions
     Network.WebSockets.Stream
+    Network.WebSockets.Internal
     -- Network.WebSockets.Util.PubSub TODO
 
   Other-modules:
