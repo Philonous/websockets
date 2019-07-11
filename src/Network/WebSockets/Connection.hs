@@ -14,6 +14,7 @@ module Network.WebSockets.Connection
     , rejectRequestWith
 
     , Connection (..)
+    , ConnectionType (..)
 
     , ConnectionOptions (..)
     , defaultConnectionOptions
